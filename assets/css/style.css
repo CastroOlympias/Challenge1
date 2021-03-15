@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header and navigation */
+
 header {
     float: left;
     padding: 20px;
@@ -44,22 +46,35 @@ header a {
     text-decoration: none;
 }
 
-
-/* End header */
-
-/* attempt at better CSS */
-
-.content img {
-    max-height: 200px;
-}
+/* hero image section */
 
 .hero {
     background-image: url("../images/digital-marketing-meeting.jpg");
     height: 800px;
-   
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
+}
+
+/* contents and articles section */
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.Marketing-Media-SEO {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.Marketing-Media-SEO img {
+    max-height: 200px;
 }
 
 .float-left {
@@ -72,11 +87,13 @@ header a {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
+.Marketing-Media-SEO h2 {
+    font-size: 30px;
+    padding: 0 0 15px 0;
 }
+
+
+/* benefits secion */
 
 .benefits {
     margin-right: 20px;
@@ -87,45 +104,27 @@ header a {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-
-.benefit-header {
     color: #ffffff;
 }
 
-.benefit-header h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
     padding: 0 0 15px 0;
 }
 
-.benefit-header img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-header p {
+.benefits p {
     text-align: left;
     padding: 0 0 35px 0;
 }
 
-.Marketing-Media-SEO {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.Marketing-Media-SEO h2 {
-    font-size: 30px;
-    padding: 0 0 15px 0;
-}
-.Marketing-Media-SEO img {
-    max-height: 200px;
-}
+/* footer */
 
 footer {
     padding: 30px;
