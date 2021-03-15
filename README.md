@@ -1,9 +1,15 @@
 # Code Refactor Starter Code
 
-There was a header element missing, it looked like div was used so I changed it to header
+Improve to index.html and styles.css
 
-I am changing unecessary classifications (.) in the html header and the children elements and changing the CSS to not search for their classes as they are no longer classes at this stage
+I improved the sematic html elements
 
-I do note that there aren't any notes to help explain any sections in the html or CSS that would help to organize the html or CSS properties for easy identifcation of changes to ther relevant sections.
+I improved index.html classes, combining them with common tyles, to reduce the number of classes and to remove redundant styles within styles.css
 
-In the header I replaced div with nav, so the li nav hyperlings are now within the parent box for smaller screens
+I entered descriptive notes in the index.html and syles.css to better organize, and identify sections as well as matched the style.css flow with the index.html code. This improves mapping and locating index.html elements with styles.css styles.
+
+I removed unnecessary boxes/elements within index.html and styles from stylse.css that provided no feature, function or visual enhancements to the application.
+
+I made sure to fix broken hyperlinks and added alt attributes to the image links
+
+I changed the title name to Horiseon
