@@ -15,3 +15,7 @@ I removed unnecessary boxes/elements within index.html and styles from stylse.cs
 I made sure to fix broken hyperlinks and added alt attributes to the image links.
 
 I changed the title name to Horiseon - Frontier.
+
+Repo LInk: https://github.com/CastroOlympias/Horiseon-Frontier
+
+Application Link: https://castroolympias.github.io/Horiseon-Frontier/
