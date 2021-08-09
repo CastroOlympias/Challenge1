@@ -19,3 +19,5 @@ I changed the title name to Horiseon - Frontier.
 Repo LInk: https://github.com/CastroOlympias/Horiseon-Frontier
 
 Application Link: https://castroolympias.github.io/Horiseon-Frontier/
+
+<img src="./assets/images/screenshot.png"/>
